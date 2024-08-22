@@ -11,4 +11,6 @@ const thisdict =	{
 
   // change Item
 
-  
+  const yearChange = thisdict.year=2008
+
+  console.log('Change Year Value: ', yearChange);
